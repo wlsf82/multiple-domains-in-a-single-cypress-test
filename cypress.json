@@ -1,0 +1,7 @@
+{
+  "baseUrl": "https://walmyr.dev",
+  "experimentalSessionAndOrigin": true,
+  "fixturesFolder": false,
+  "pluginsFile": false,
+  "supportFile": false
+}

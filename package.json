@@ -1,0 +1,15 @@
+{
+  "name": "multiple-domains-in-a-single-cypress-test",
+  "version": "1.0.0",
+  "description": "Sample project to demonstrate the cy.origin command, available in expermental mode on Cypress v9.6.0.",
+  "scripts": {
+    "cy:open": "cypress open",
+    "test": "cypress run"
+  },
+  "keywords": [],
+  "author": "Walmyr Filho <wlsf82@gmail.com> (https://walmyr.dev/)",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.6.0"
+  }
+}
